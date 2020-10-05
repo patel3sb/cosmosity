@@ -1,4 +1,9 @@
-
+# Comsmosity MAKE UC Hackathon Project
+### Members
+* Smit Patel
+* Sudarshan Pillai
+* Rohit P
+* Shreevardhan Shah
 
 
 
